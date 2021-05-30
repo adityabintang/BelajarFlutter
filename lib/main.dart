@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
             margin: EdgeInsets.all(8.0),
             child: Text(
               "Hallo Flutter, ini aplikasi pertama saya",
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18.0),
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18.0, fontFamily: 'Monserrat'),
             ),
           ),
           Container(
